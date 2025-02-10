@@ -1,0 +1,50 @@
+[
+    {
+        "ticker": "stAPT1",
+        "symbol": "stAPT1",
+        "img": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/TortugaStakedAptos.png",
+        "name": "Staked APT 1"
+    },
+    {
+        "ticker": "stAPT2",
+        "symbol": "stAPT2",
+        "img": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/stAPT.svg",
+        "name": "Staked APT 2"
+    },
+    {
+        "ticker": "stAPT3",
+        "symbol": "stAPT3",
+        "img": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/DittoStakedAptos.svg",
+        "name": "Staked APT 3"
+    },
+    {
+        "ticker": "tAPT",
+        "symbol": "tAPT",
+        "img": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/TortugaStakedAptos.png",
+        "name": "Tortuga Staked Aptos"
+    },
+    {
+        "ticker": "stAPT",
+        "symbol": "stAPT",
+        "img": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/DittoStakedAptos.svg",
+        "name": "Ditto Staked Aptos"
+    },
+    {
+        "ticker": "thAPT",
+        "symbol": "thAPT",
+        "img": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/thAPT.svg",
+        "name": "Thala APT"
+    },
+    {
+        "ticker": "sthAPT",
+        "symbol": "sthAPT",
+        "img": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/thAPT.svg",
+        "name": "Staked Thala APT"
+    },
+    {
+        "ticker": "stAPT",
+        "symbol": "stAPT",
+        "img": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/stAPT.svg",
+        "name": "Staked Aptos Coin"
+    }
+]
