@@ -1,0 +1,17 @@
+[package]
+name = "Multi_Token_Pool"
+version = "1.0.0"
+authors = []
+
+[addresses]
+pool_addr = '_'
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dependencies]
+Liquid_Staking_Token = { local = "../liquid-staking-token"}
+
+[dev-dependencies]
